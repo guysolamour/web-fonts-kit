@@ -1,0 +1,243 @@
+/*=============================================
+=            alexbrush             =
+=============================================*/
+@font-face {
+  font-family: 'alexbrush';
+  src: url("alexbrush-regular/alexbrush-regular.woff2?#iefix") format("woff2"), url("alexbrush-regular/alexbrush-regular.woff") format("woff"), url("alexbrush-regular/alexbrush-regular.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal; }
+
+/*=============================================
+=            calendas-plus             =
+=============================================*/
+@font-face {
+  font-family: 'calendas';
+  src: url("calendas-plus-regular/calendas.woff2?#iefix") format("woff2"), url("calendas-plus-regular/calendas.woff") format("woff"), url("calendas-plus-regular/calendas.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal; }
+
+/*=============================================
+=            droidsans             =
+=============================================*/
+@font-face {
+  font-family: 'droidsans';
+  src: url("droidsans-bold/droidsans-bold.woff2?#iefix") format("woff2"), url("droidsans-bold/droidsans-bold.woff") format("woff"), url("droidsans-bold/droidsans-bold.ttf") format("truetype");
+  font-weight: bold;
+  font-style: normal; }
+
+@font-face {
+  font-family: 'droidsans';
+  src: url("droidsans-regular/droidsans.woff2?#iefix") format("woff2"), url("droidsans-regular/droidsans.woff") format("woff"), url("droidsans-regular/droidsans.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal; }
+
+/*=============================================
+=            grandhotel             =
+=============================================*/
+@font-face {
+  font-family: 'grandhotel';
+  src: url("grandhotel-regular/grandhotel-regular.woff2?#iefix") format("woff2"), url("grandhotel-regular/grandhotel-regular.woff") format("woff"), url("grandhotel-regular/grandhotel-regular.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal; }
+
+/*=============================================
+=            hack             =
+=============================================*/
+@font-face {
+  font-family: 'hack';
+  src: url("hack-bold/hack-bold.woff2?#iefix") format("woff2"), url("hack-bold/hack-bold.woff") format("woff"), url("hack-bold/hack-bold.ttf") format("truetype");
+  font-weight: bold;
+  font-style: normal; }
+
+@font-face {
+  font-family: 'hack';
+  src: url("hack-bolditalic/hack-bolditalic.woff2?#iefix") format("woff2"), url("hack-bolditalic/hack-bolditalic.woff") format("woff"), url("hack-bolditalic/hack-bolditalic.ttf") format("truetype");
+  font-weight: bold;
+  font-style: italic; }
+
+@font-face {
+  font-family: 'hack';
+  src: url("hack-italic/hack-italic.woff2?#iefix") format("woff2"), url("hack-italic/hack-italic.woff") format("woff"), url("hack-italic/hack-italic.ttf") format("truetype");
+  font-weight: normal;
+  font-style: italic; }
+
+@font-face {
+  font-family: 'hack';
+  src: url("hack-regular/hack-regular.woff2?#iefix") format("woff2"), url("hack-regular/hack-regular.woff") format("woff"), url("hack-regular/hack-regular.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal; }
+
+/*=============================================
+=            lato             =
+=============================================*/
+@font-face {
+  font-family: 'lato';
+  src: url("lato-bold/lato-bold.woff2?#iefix") format("woff2"), url("lato-bold/lato-bold.woff") format("woff"), url("lato-bold/lato-bold.ttf") format("truetype");
+  font-weight: bold;
+  font-style: normal; }
+
+@font-face {
+  font-family: 'lato';
+  src: url("lato-italic/lato-italic.woff2?#iefix") format("woff2"), url("lato-italic/lato-italic.woff") format("woff"), url("lato-italic/lato-italic.ttf") format("truetype");
+  font-weight: normal;
+  font-style: italic; }
+
+@font-face {
+  font-family: 'lato';
+  src: url("lato-regular/lato-regular.woff2?#iefix") format("woff2"), url("lato-regular/lato-regular.woff") format("woff"), url("lato-regular/lato-regular.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal; }
+
+/*=============================================
+=            leaguegothic             =
+=============================================*/
+@font-face {
+  font-family: 'leaguegothic';
+  src: url("leaguegothic-regular/leaguegothic-regular.woff2?#iefix") format("woff2"), url("leaguegothic-regular/leaguegothic-regular.woff") format("woff"), url("leaguegothic-regular/leaguegothic-regular.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal; }
+
+/*=============================================
+=            merriweather             =
+=============================================*/
+@font-face {
+  font-family: 'merriweather';
+  src: url("merriweather-bold/merriweather-bold.woff2?#iefix") format("woff2"), url("merriweather-bold/merriweather-bold.woff") format("woff"), url("merriweather-bold/merriweather-bold.ttf") format("truetype");
+  font-weight: bold;
+  font-style: normal; }
+
+@font-face {
+  font-family: 'merriweather';
+  src: url("merriweather-regular/merriweather-regular.woff2?#iefix") format("woff2"), url("merriweather-regular/merriweather-regular.woff") format("woff"), url("merriweather-regular/merriweather-regular.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal; }
+
+/*=============================================
+=            montserrat             =
+=============================================*/
+@font-face {
+  font-family: 'montserrat';
+  src: url("montserrat-bold/montserrat-bold.woff2?#iefix") format("woff2"), url("montserrat-bold/montserrat-bold.woff") format("woff");
+  font-weight: bold;
+  font-style: normal; }
+
+@font-face {
+  font-family: 'montserrat';
+  src: url("montserrat-regular/montserrat-regular.woff2?#iefix") format("woff2"), url("montserrat-regular/montserrat-regular.woff") format("woff");
+  font-weight: normal;
+  font-style: normal; }
+
+/*=============================================
+=            opensans             =
+=============================================*/
+@font-face {
+  font-family: 'opensans';
+  src: url("opensans-bold/opensans-bold.woff2?#iefix") format("woff2"), url("opensans-bold/opensans-bold.woff") format("woff"), url("opensans-bold/opensans-bold.ttf") format("truetype");
+  font-weight: bold;
+  font-style: normal; }
+
+@font-face {
+  font-family: 'opensans';
+  src: url("opensans-italic/opensans-italic.woff2?#iefix") format("woff2"), url("opensans-italic/opensans-italic.woff") format("woff"), url("opensans-italic/opensans-italic.ttf") format("truetype");
+  font-weight: normal;
+  font-style: italic; }
+
+@font-face {
+  font-family: 'opensans-light';
+  src: url("opensans-light/opensans-light.woff2?#iefix") format("woff2"), url("opensans-light/opensans-light.woff") format("woff"), url("opensans-light/opensans-light.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal; }
+
+@font-face {
+  font-family: 'opensans';
+  src: url("opensans-regular/opensans-regular.woff2?#iefix") format("woff2"), url("opensans-regular/opensans-regular.woff") format("woff"), url("opensans-regular/opensans-regular.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal; }
+
+/*=============================================
+=            osvald             =
+=============================================*/
+@font-face {
+  font-family: 'oswald';
+  src: url("oswald-regular/oswald-regular.woff2?#iefix") format("woff2"), url("oswald-regular/oswald-regular.woff") format("woff"), url("oswald-regular/oswald-regular.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal; }
+
+/*=============================================
+=            proximanova             =
+=============================================*/
+@font-face {
+  font-family: 'Proxima Nova';
+  src: url("proxima-nova-regular/Mark Simonson - Proxima Nova Alt Regular-webfont.eot");
+  src: url("proxima-nova-regular/Mark Simonson - Proxima Nova Alt Regular-webfont.eot?#iefix") format("embedded-opentype"), url("proxima-nova-regular/Mark Simonson - Proxima Nova Alt Regular-webfont.woff2") format("woff2"), url("proxima-nova-regular/Mark Simonson - Proxima Nova Alt Regular-webfont.woff") format("woff"), url("proxima-nova-regular/Mark Simonson - Proxima Nova Alt Regular-webfont.ttf") format("truetype"), url("proxima-nova-regular/Mark Simonson - Proxima Nova Alt Regular-webfont.svg#proxima_nova_altregular") format("svg");
+  font-weight: normal;
+  font-style: normal; }
+
+@font-face {
+  font-family: 'proxima_nova_altblack';
+  src: url("proxima-nova-black/Mark Simonson - Proxima Nova Alt Black-webfont.eot");
+  src: url("proxima-nova-black/Mark Simonson - Proxima Nova Alt Black-webfont.eot?#iefix") format("embedded-opentype"), url("proxima-nova-black/Mark Simonson - Proxima Nova Alt Black-webfont.woff2") format("woff2"), url("proxima-nova-black/Mark Simonson - Proxima Nova Alt Black-webfont.woff") format("woff"), url("proxima-nova-black/Mark Simonson - Proxima Nova Alt Black-webfont.ttf") format("truetype"), url("proxima-nova-black/Mark Simonson - Proxima Nova Alt Black-webfont.svg#proxima_nova_altblack") format("svg");
+  font-weight: normal;
+  font-style: normal; }
+
+@font-face {
+  font-family: 'proxima_nova_altbold';
+  src: url("proxima-nova-bold/Mark Simonson - Proxima Nova Alt Bold-webfont.eot");
+  src: url("proxima-nova-bold/Mark Simonson - Proxima Nova Alt Bold-webfont.eot?#iefix") format("embedded-opentype"), url("proxima-nova-bold/Mark Simonson - Proxima Nova Alt Bold-webfont.woff2") format("woff2"), url("proxima-nova-bold/Mark Simonson - Proxima Nova Alt Bold-webfont.woff") format("woff"), url("proxima-nova-bold/Mark Simonson - Proxima Nova Alt Bold-webfont.ttf") format("truetype"), url("proxima-nova-bold/Mark Simonson - Proxima Nova Alt Bold-webfont.svg#proxima_nova_altbold") format("svg");
+  font-weight: normal;
+  font-style: normal; }
+
+@font-face {
+  font-family: 'proxima_nova_altblack';
+  src: url("proxima-nova-condensed/Mark Simonson - Proxima Nova Alt Condensed Semibold-webfont.eot");
+  src: url("proxima-nova-condensed/Mark Simonson - Proxima Nova Alt Condensed Semibold-webfont.eot?#iefix") format("embedded-opentype"), url("proxima-nova-condensed/Mark Simonson - Proxima Nova Alt Condensed Semibold-webfont.woff2") format("woff2"), url("proxima-nova-condensed/Mark Simonson - Proxima Nova Alt Condensed Semibold-webfont.woff") format("woff"), url("proxima-nova-condensed/Mark Simonson - Proxima Nova Alt Condensed Semibold-webfont.ttf") format("truetype"), url("proxima-nova-condensed/Mark Simonson - Proxima Nova Alt Condensed Semibold-webfont.svg#proxima_nova_altblack") format("svg");
+  font-weight: normal;
+  font-style: normal; }
+
+@font-face {
+  font-family: 'proxima_nova_scosfthin';
+  src: url("proxima-nova-scosfthin/Mark Simonson - Proxima Nova ScOsf Thin-webfont.eot");
+  src: url("proxima-nova-scosfthin/Mark Simonson - Proxima Nova ScOsf Thin-webfont.eot?#iefix") format("embedded-opentype"), url("proxima-nova-scosfthin/Mark Simonson - Proxima Nova ScOsf Thin-webfont.woff2") format("woff2"), url("proxima-nova-scosfthin/Mark Simonson - Proxima Nova ScOsf Thin-webfont.woff") format("woff"), url("proxima-nova-scosfthin/Mark Simonson - Proxima Nova ScOsf Thin-webfont.ttf") format("truetype"), url("proxima-nova-scosfthin/Mark Simonson - Proxima Nova ScOsf Thin-webfont.svg#proxima_nova_scosfthin") format("svg");
+  font-weight: normal;
+  font-style: normal; }
+
+@font-face {
+  font-family: 'proxima_nova_ltsemibold';
+  src: url("proxima-nova-semibold/Mark Simonson - Proxima Nova Semibold-webfont.eot");
+  src: url("proxima-nova-semibold/Mark Simonson - Proxima Nova Semibold-webfont.eot?#iefix") format("embedded-opentype"), url("proxima-nova-semibold/Mark Simonson - Proxima Nova Semibold-webfont.woff2") format("woff2"), url("proxima-nova-semibold/Mark Simonson - Proxima Nova Semibold-webfont.woff") format("woff"), url("proxima-nova-semibold/Mark Simonson - Proxima Nova Semibold-webfont.ttf") format("truetype"), url("proxima-nova-semibold/Mark Simonson - Proxima Nova Semibold-webfont.svg#proxima_nova_ltsemibold") format("svg");
+  font-weight: normal;
+  font-style: normal; }
+
+@font-face {
+  font-family: 'proxima_nova_ltthin';
+  src: url("proxima-nova-thin/Mark Simonson - Proxima Nova Thin-webfont.eot");
+  src: url("proxima-nova-thin/Mark Simonson - Proxima Nova Thin-webfont.eot?#iefix") format("embedded-opentype"), url("proxima-nova-thin/Mark Simonson - Proxima Nova Thin-webfont.woff2") format("woff2"), url("proxima-nova-thin/Mark Simonson - Proxima Nova Thin-webfont.woff") format("woff"), url("proxima-nova-thin/Mark Simonson - Proxima Nova Thin-webfont.ttf") format("truetype"), url("proxima-nova-thin/Mark Simonson - Proxima Nova Thin-webfont.svg#proxima_nova_ltthin") format("svg");
+  font-weight: normal;
+  font-style: normal; }
+
+/*=============================================
+=            roboto             =
+=============================================*/
+@font-face {
+  font-family: 'roboto';
+  src: url("roboto-bold/roboto-bold.woff2?#iefix") format("woff2"), url("roboto-bold/roboto-bold.woff") format("woff"), url("roboto-bold/roboto-bold.ttf") format("truetype");
+  font-weight: bold;
+  font-style: normal; }
+
+@font-face {
+  font-family: 'roboto';
+  src: url("roboto-italic/roboto-italic.woff2?#iefix") format("woff2"), url("roboto-italic/roboto-italic.woff") format("woff"), url("roboto-italic/roboto-italic.ttf") format("truetype");
+  font-weight: normal;
+  font-style: italic; }
+
+@font-face {
+  font-family: 'roboto';
+  src: url("roboto-light/roboto-light.woff2?#iefix") format("woff2"), url("roboto-light/roboto-light.woff") format("woff");
+  font-weight: 300;
+  font-style: normal; }
+
+@font-face {
+  font-family: 'roboto';
+  src: url("roboto-regular/roboto-regular.woff2?#iefix") format("woff2"), url("roboto-regular/roboto-regular.woff") format("woff"), url("roboto-regular/roboto-regular.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal; }
